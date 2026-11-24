@@ -1,5 +1,7 @@
 # mtm6302_final_bell0729
 
+Please read this file in code format as it will make a lot more sense layout wise
+
 Project: Lost and Found Log
 Developer: Lucas Bell
 
@@ -56,3 +58,5 @@ Reset behaviour: erases all items and reset form button to lent to someone and f
 
 Example:
 "Lent to someone" - Bob - Hammer - Item is away
+
+
