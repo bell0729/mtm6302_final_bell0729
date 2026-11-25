@@ -59,4 +59,37 @@ Reset behaviour: erases all items and reset form button to lent to someone and f
 Example:
 "Lent to someone" - Bob - Hammer - Item is away
 
+Order of operations:
+Build code that makes layout of the site
+    This includes all html and some css
+Build code that adds items to the list
+    This includes all buttons that are needed to add an item to the list
+Build code that adds filters
+    This includes all 3 filter buttons
+Build code to remove items from the list
+    This includes remove and remove all buttons
+Build save and load capability
 
+Testing order:
+Page actually loads
+Page loads with all details
+
+Buttons are clickable
+Name button works
+Person name button works
+Lent or misplaced button toggles
+Item can be added
+
+Buttons are clickable
+Filter 1 works
+Filter 2 works
+Filter 3 works
+Filters can be changed back and forth
+
+Buttons are clickable
+Remove button removes the item
+Remove all button removes all items
+Remove all button shows a warning and then removes all items
+
+Things are confirmed to save
+Things load
