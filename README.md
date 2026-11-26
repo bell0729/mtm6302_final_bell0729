@@ -9,6 +9,8 @@ The purpose of this app is to allow users to keep track of item they lent or mis
 The app will accomplish this goal by providing a list of lent items which the user can edit the name of and change whether they are currently lent or not.
 Users can also remove items at any time by hitting a remove button next to the item.
 
+The main users of this app are college students who have roommates, middle age people who are forgetful, and people who lend a lot of items.
+
 Confirmed features:
 Add an item button which adds an item to the list with the name inputted by the user, the name or place the user lent or left the item and the tag of lent to someone or left somewhere.
 Mark as back button which marks an item as back in the user's possession rather than lent out.
